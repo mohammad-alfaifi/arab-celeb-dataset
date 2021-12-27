@@ -1,6 +1,6 @@
 # Arab celebrities open dataset
 
-![forbesmiddleeast](arab-celeb.jpg)
+![forbesmiddleeast](arab_celeb.jpg)
 
 In the link below, you can download the arab celeberities dataset which consists of **17,304** photos and its size is around **3.1GB**:
 
