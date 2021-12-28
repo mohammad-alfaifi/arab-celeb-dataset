@@ -2,14 +2,28 @@
 
 ![source:forbesmiddleeast](arab_celeb.jpg)
 
-The arab celeberities dataset consists of **17,304** photos with different resolution and varity in terms of countries and image background. The dataset was manually downloaded from different websites on the interent. Some photos were changed but most of them had no changes after download. 
+The Arab celeberities dataset consists of **17,304** photos with different resolution and varity in terms of countries and image background. The dataset was manually downloaded from different websites on the interent. Some photos were changed but most of them had no changes after download. 
 
+## Sample dataset
+
+[Arab celeberities sample dataset ](Arab_celeb_dataset_sample.zip)
+
+
+## Full dataset
 The size of the dataset is around **3.1GB** and you can download it from here:
 
 https://arab-celeb.s3.us-east-2.amazonaws.com/data.zip
 
 
+
+### Data structure
+
+Each photos are located in one folder. The name of each photo is strctured as *country-profession-gender-name_order*
+
+**Example:** : **Algeria-Singer-Male-Cheb_Khaled_1.jpg**
+
 ## Overview
+
 
 
 ### Countries 
@@ -49,6 +63,6 @@ https://arab-celeb.s3.us-east-2.amazonaws.com/data.zip
 
 ---
 
-I hope you can find this dataset helpful for you research and data science projects.
+I hope you find this dataset helpful for your research and data science projects.
 
 
