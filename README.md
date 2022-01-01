@@ -27,8 +27,9 @@ Photos are located in one folder. The name of each photo is strctured as *countr
 
 
 
-### Countries 
-| celebrities country      | collected_photos |
+### Celebrities countries 
+
+| country      | collected_photos |
 |--------------|------------------|
 | Egypt        | 8,809            |
 | Syria        | 1,988            |
@@ -45,17 +46,17 @@ Photos are located in one folder. The name of each photo is strctured as *countr
 | Iraq         | 83               |
 | Yemen        | 78               |
 
-### Gender
+### Celebrities gender
 
 
-| celebrities gender | collected_photos |
+| gender | collected_photos |
 |--------|------------------|
 | Male   | 9,887            |
 | Female | 7,417            |
 
-### Profession
+### Celebrities profession
 
-| celebrities profession | collected_photos |
+| profession | collected_photos |
 |------------|------------------|
 | Actor      | 7,057            |
 | Actress    | 5,227            |
