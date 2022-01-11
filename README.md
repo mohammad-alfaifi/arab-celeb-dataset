@@ -2,7 +2,7 @@
 
 ![source:forbesmiddleeast](arab_celeb.jpg)
 
-The Arab celeberities dataset consists of 17,304 photos with different resolution and varity in terms of countries and image background. The dataset was manually downloaded from different websites. Some photos were changed but most of them had no changes after download.
+The Arab celeberities dataset consists of 17,304 photos with different resolution and varity in terms of countries and image background. The dataset was manually downloaded from different websites. Some photos were changed(removing and hiding text) but most of them had no changes after download.
 
 ## Sample dataset
 
